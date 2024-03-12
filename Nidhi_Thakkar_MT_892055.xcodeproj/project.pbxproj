@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D1A50F82B9E415B005058FD /* Quadratic_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1A50F72B9E415B005058FD /* Quadratic_ViewController.swift */; };
+		0D5B63242B9C15C80026F0D9 /* Lab3_NTViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5B63232B9C15C80026F0D9 /* Lab3_NTViewController.swift */; };
+		0D5B63262B9C176C0026F0D9 /* Lab4_NTViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5B63252B9C176C0026F0D9 /* Lab4_NTViewController.swift */; };
+		0D5F151D2B9C217300A57760 /* Canada_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5F151C2B9C217300A57760 /* Canada_ViewController.swift */; };
 		0DC741C72B99429B00EADF40 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC741C62B99429B00EADF40 /* AppDelegate.swift */; };
 		0DC741C92B99429B00EADF40 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC741C82B99429B00EADF40 /* SceneDelegate.swift */; };
 		0DC741CB2B99429B00EADF40 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC741CA2B99429B00EADF40 /* ViewController.swift */; };
@@ -16,6 +20,7 @@
 		0DC741DE2B99429C00EADF40 /* Mid_NIDHI_THAKKARTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC741DD2B99429C00EADF40 /* Mid_NIDHI_THAKKARTests.swift */; };
 		0DC741E82B99429C00EADF40 /* Mid_NIDHI_THAKKARUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC741E72B99429C00EADF40 /* Mid_NIDHI_THAKKARUITests.swift */; };
 		0DC741EA2B99429C00EADF40 /* Mid_NIDHI_THAKKARUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC741E92B99429C00EADF40 /* Mid_NIDHI_THAKKARUITestsLaunchTests.swift */; };
+		0DEE978D2B9BF377005D6DC8 /* Lab2_NTViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DEE978C2B9BF377005D6DC8 /* Lab2_NTViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +41,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0DC741C32B99429B00EADF40 /* Mid_NIDHI_THAKKAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mid_NIDHI_THAKKAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0D1A50F72B9E415B005058FD /* Quadratic_ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quadratic_ViewController.swift; sourceTree = "<group>"; };
+		0D5B63232B9C15C80026F0D9 /* Lab3_NTViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab3_NTViewController.swift; sourceTree = "<group>"; };
+		0D5B63252B9C176C0026F0D9 /* Lab4_NTViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab4_NTViewController.swift; sourceTree = "<group>"; };
+		0D5F151C2B9C217300A57760 /* Canada_ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Canada_ViewController.swift; sourceTree = "<group>"; };
+		0DC741C32B99429B00EADF40 /* Nidhi_Thakkar_MT_892055.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Nidhi_Thakkar_MT_892055.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DC741C62B99429B00EADF40 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0DC741C82B99429B00EADF40 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		0DC741CA2B99429B00EADF40 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -44,11 +53,12 @@
 		0DC741CF2B99429C00EADF40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DC741D22B99429C00EADF40 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0DC741D42B99429C00EADF40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0DC741D92B99429C00EADF40 /* Mid_NIDHI_THAKKARTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Mid_NIDHI_THAKKARTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DC741D92B99429C00EADF40 /* Nidhi_Thakkar_MT_892055Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Nidhi_Thakkar_MT_892055Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DC741DD2B99429C00EADF40 /* Mid_NIDHI_THAKKARTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mid_NIDHI_THAKKARTests.swift; sourceTree = "<group>"; };
-		0DC741E32B99429C00EADF40 /* Mid_NIDHI_THAKKARUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Mid_NIDHI_THAKKARUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DC741E32B99429C00EADF40 /* Nidhi_Thakkar_MT_892055UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Nidhi_Thakkar_MT_892055UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DC741E72B99429C00EADF40 /* Mid_NIDHI_THAKKARUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mid_NIDHI_THAKKARUITests.swift; sourceTree = "<group>"; };
 		0DC741E92B99429C00EADF40 /* Mid_NIDHI_THAKKARUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mid_NIDHI_THAKKARUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0DEE978C2B9BF377005D6DC8 /* Lab2_NTViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab2_NTViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,9 +99,9 @@
 		0DC741C42B99429B00EADF40 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0DC741C32B99429B00EADF40 /* Mid_NIDHI_THAKKAR.app */,
-				0DC741D92B99429C00EADF40 /* Mid_NIDHI_THAKKARTests.xctest */,
-				0DC741E32B99429C00EADF40 /* Mid_NIDHI_THAKKARUITests.xctest */,
+				0DC741C32B99429B00EADF40 /* Nidhi_Thakkar_MT_892055.app */,
+				0DC741D92B99429C00EADF40 /* Nidhi_Thakkar_MT_892055Tests.xctest */,
+				0DC741E32B99429C00EADF40 /* Nidhi_Thakkar_MT_892055UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -103,6 +113,11 @@
 				0DC741C82B99429B00EADF40 /* SceneDelegate.swift */,
 				0DC741CA2B99429B00EADF40 /* ViewController.swift */,
 				0DC741CC2B99429B00EADF40 /* Main.storyboard */,
+				0D5F151C2B9C217300A57760 /* Canada_ViewController.swift */,
+				0DEE978C2B9BF377005D6DC8 /* Lab2_NTViewController.swift */,
+				0D5B63232B9C15C80026F0D9 /* Lab3_NTViewController.swift */,
+				0D5B63252B9C176C0026F0D9 /* Lab4_NTViewController.swift */,
+				0D1A50F72B9E415B005058FD /* Quadratic_ViewController.swift */,
 				0DC741CF2B99429C00EADF40 /* Assets.xcassets */,
 				0DC741D12B99429C00EADF40 /* LaunchScreen.storyboard */,
 				0DC741D42B99429C00EADF40 /* Info.plist */,
@@ -130,9 +145,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0DC741C22B99429B00EADF40 /* Mid_NIDHI_THAKKAR */ = {
+		0DC741C22B99429B00EADF40 /* Nidhi_Thakkar_MT_892055 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0DC741ED2B99429C00EADF40 /* Build configuration list for PBXNativeTarget "Mid_NIDHI_THAKKAR" */;
+			buildConfigurationList = 0DC741ED2B99429C00EADF40 /* Build configuration list for PBXNativeTarget "Nidhi_Thakkar_MT_892055" */;
 			buildPhases = (
 				0DC741BF2B99429B00EADF40 /* Sources */,
 				0DC741C02B99429B00EADF40 /* Frameworks */,
@@ -142,14 +157,14 @@
 			);
 			dependencies = (
 			);
-			name = Mid_NIDHI_THAKKAR;
+			name = Nidhi_Thakkar_MT_892055;
 			productName = Mid_NIDHI_THAKKAR;
-			productReference = 0DC741C32B99429B00EADF40 /* Mid_NIDHI_THAKKAR.app */;
+			productReference = 0DC741C32B99429B00EADF40 /* Nidhi_Thakkar_MT_892055.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0DC741D82B99429C00EADF40 /* Mid_NIDHI_THAKKARTests */ = {
+		0DC741D82B99429C00EADF40 /* Nidhi_Thakkar_MT_892055Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0DC741F02B99429C00EADF40 /* Build configuration list for PBXNativeTarget "Mid_NIDHI_THAKKARTests" */;
+			buildConfigurationList = 0DC741F02B99429C00EADF40 /* Build configuration list for PBXNativeTarget "Nidhi_Thakkar_MT_892055Tests" */;
 			buildPhases = (
 				0DC741D52B99429C00EADF40 /* Sources */,
 				0DC741D62B99429C00EADF40 /* Frameworks */,
@@ -160,14 +175,14 @@
 			dependencies = (
 				0DC741DB2B99429C00EADF40 /* PBXTargetDependency */,
 			);
-			name = Mid_NIDHI_THAKKARTests;
+			name = Nidhi_Thakkar_MT_892055Tests;
 			productName = Mid_NIDHI_THAKKARTests;
-			productReference = 0DC741D92B99429C00EADF40 /* Mid_NIDHI_THAKKARTests.xctest */;
+			productReference = 0DC741D92B99429C00EADF40 /* Nidhi_Thakkar_MT_892055Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		0DC741E22B99429C00EADF40 /* Mid_NIDHI_THAKKARUITests */ = {
+		0DC741E22B99429C00EADF40 /* Nidhi_Thakkar_MT_892055UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0DC741F32B99429C00EADF40 /* Build configuration list for PBXNativeTarget "Mid_NIDHI_THAKKARUITests" */;
+			buildConfigurationList = 0DC741F32B99429C00EADF40 /* Build configuration list for PBXNativeTarget "Nidhi_Thakkar_MT_892055UITests" */;
 			buildPhases = (
 				0DC741DF2B99429C00EADF40 /* Sources */,
 				0DC741E02B99429C00EADF40 /* Frameworks */,
@@ -178,9 +193,9 @@
 			dependencies = (
 				0DC741E52B99429C00EADF40 /* PBXTargetDependency */,
 			);
-			name = Mid_NIDHI_THAKKARUITests;
+			name = Nidhi_Thakkar_MT_892055UITests;
 			productName = Mid_NIDHI_THAKKARUITests;
-			productReference = 0DC741E32B99429C00EADF40 /* Mid_NIDHI_THAKKARUITests.xctest */;
+			productReference = 0DC741E32B99429C00EADF40 /* Nidhi_Thakkar_MT_892055UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -206,7 +221,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0DC741BE2B99429B00EADF40 /* Build configuration list for PBXProject "Mid_NIDHI_THAKKAR" */;
+			buildConfigurationList = 0DC741BE2B99429B00EADF40 /* Build configuration list for PBXProject "Nidhi_Thakkar_MT_892055" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -219,9 +234,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0DC741C22B99429B00EADF40 /* Mid_NIDHI_THAKKAR */,
-				0DC741D82B99429C00EADF40 /* Mid_NIDHI_THAKKARTests */,
-				0DC741E22B99429C00EADF40 /* Mid_NIDHI_THAKKARUITests */,
+				0DC741C22B99429B00EADF40 /* Nidhi_Thakkar_MT_892055 */,
+				0DC741D82B99429C00EADF40 /* Nidhi_Thakkar_MT_892055Tests */,
+				0DC741E22B99429C00EADF40 /* Nidhi_Thakkar_MT_892055UITests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,9 +273,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D5B63242B9C15C80026F0D9 /* Lab3_NTViewController.swift in Sources */,
 				0DC741CB2B99429B00EADF40 /* ViewController.swift in Sources */,
 				0DC741C72B99429B00EADF40 /* AppDelegate.swift in Sources */,
 				0DC741C92B99429B00EADF40 /* SceneDelegate.swift in Sources */,
+				0D5F151D2B9C217300A57760 /* Canada_ViewController.swift in Sources */,
+				0D1A50F82B9E415B005058FD /* Quadratic_ViewController.swift in Sources */,
+				0DEE978D2B9BF377005D6DC8 /* Lab2_NTViewController.swift in Sources */,
+				0D5B63262B9C176C0026F0D9 /* Lab4_NTViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,12 +306,12 @@
 /* Begin PBXTargetDependency section */
 		0DC741DB2B99429C00EADF40 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0DC741C22B99429B00EADF40 /* Mid_NIDHI_THAKKAR */;
+			target = 0DC741C22B99429B00EADF40 /* Nidhi_Thakkar_MT_892055 */;
 			targetProxy = 0DC741DA2B99429C00EADF40 /* PBXContainerItemProxy */;
 		};
 		0DC741E52B99429C00EADF40 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0DC741C22B99429B00EADF40 /* Mid_NIDHI_THAKKAR */;
+			target = 0DC741C22B99429B00EADF40 /* Nidhi_Thakkar_MT_892055 */;
 			targetProxy = 0DC741E42B99429C00EADF40 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -499,7 +519,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mid_NIDHI_THAKKAR.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Mid_NIDHI_THAKKAR";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Nidhi_Thakkar_MT_892055.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Nidhi_Thakkar_MT_892055";
 			};
 			name = Debug;
 		};
@@ -518,7 +538,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mid_NIDHI_THAKKAR.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Mid_NIDHI_THAKKAR";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Nidhi_Thakkar_MT_892055.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Nidhi_Thakkar_MT_892055";
 			};
 			name = Release;
 		};
@@ -559,7 +579,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0DC741BE2B99429B00EADF40 /* Build configuration list for PBXProject "Mid_NIDHI_THAKKAR" */ = {
+		0DC741BE2B99429B00EADF40 /* Build configuration list for PBXProject "Nidhi_Thakkar_MT_892055" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DC741EB2B99429C00EADF40 /* Debug */,
@@ -568,7 +588,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0DC741ED2B99429C00EADF40 /* Build configuration list for PBXNativeTarget "Mid_NIDHI_THAKKAR" */ = {
+		0DC741ED2B99429C00EADF40 /* Build configuration list for PBXNativeTarget "Nidhi_Thakkar_MT_892055" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DC741EE2B99429C00EADF40 /* Debug */,
@@ -577,7 +597,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0DC741F02B99429C00EADF40 /* Build configuration list for PBXNativeTarget "Mid_NIDHI_THAKKARTests" */ = {
+		0DC741F02B99429C00EADF40 /* Build configuration list for PBXNativeTarget "Nidhi_Thakkar_MT_892055Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DC741F12B99429C00EADF40 /* Debug */,
@@ -586,7 +606,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0DC741F32B99429C00EADF40 /* Build configuration list for PBXNativeTarget "Mid_NIDHI_THAKKARUITests" */ = {
+		0DC741F32B99429C00EADF40 /* Build configuration list for PBXNativeTarget "Nidhi_Thakkar_MT_892055UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DC741F42B99429C00EADF40 /* Debug */,
